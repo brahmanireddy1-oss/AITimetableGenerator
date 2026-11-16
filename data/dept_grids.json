@@ -1,0 +1,178 @@
+{
+  "cse": {
+    "P1": {
+      "Monday": "**C101**: Data Structures<br/>*Major* | Dr. Ananya Rao | Room 101<br/>**[30 CSE students]**",
+      "Tuesday": "**C101**: Data Structures<br/>*Major* | Dr. Ananya Rao | Seminar Room<br/>**[30 CSE students]**",
+      "Wednesday": "**C102**: Database Management Systems<br/>*Major* | Mr. Kiran Kumar | Room 202<br/>**[30 CSE students]**",
+      "Thursday": "**C103**: Object Oriented Programming<br/>*Major* | Ms. Sravya Reddy | Room 202<br/>**[30 CSE students]**",
+      "Friday": "**C103**: Object Oriented Programming<br/>*Major* | Ms. Sravya Reddy | Room 202<br/>**[30 CSE students]**"
+    },
+    "P2": {
+      "Monday": "**X403**: Professional Communication<br/>*Skill Enhancement* | Ms. Pooja Singh | Room 102<br/>**[30 CSE / 45 total students]**",
+      "Tuesday": "**X401**: Introduction to Machine Learning<br/>*Interdisciplinary* | Dr. Harish Babu | Computer Lab 2<br/>**[14 CSE / 29 total students]**",
+      "Wednesday": "**C105**: Operating Systems<br/>*Major* | Dr. Vivek Sharma | Seminar Room<br/>**[30 CSE students]**",
+      "Thursday": "**C105**: Operating Systems<br/>*Major* | Dr. Vivek Sharma | Room 102<br/>**[30 CSE students]**",
+      "Friday": "**C102**: Database Management Systems<br/>*Major* | Mr. Kiran Kumar | Room 102<br/>**[30 CSE students]**"
+    },
+    "P3": {
+      "Monday": "**X401**: Introduction to Machine Learning<br/>*Interdisciplinary* | Dr. Harish Babu | Computer Lab 2<br/>**[14 CSE / 29 total students]**",
+      "Tuesday": "**C102**: Database Management Systems<br/>*Major* | Mr. Kiran Kumar | Room 101<br/>**[30 CSE students]**",
+      "Wednesday": "**X403**: Professional Communication<br/>*Skill Enhancement* | Ms. Pooja Singh | Room 101<br/>**[30 CSE / 45 total students]**",
+      "Thursday": "**C104**: Data Structures Lab<br/>*Laboratory* | Dr. Ananya Rao | Computer Lab 1<br/>**[30 CSE students]**",
+      "Friday": "**I303**: Cloud Computing<br/>*Open Elective* | Ms. Pooja Singh | Computer Lab 2<br/>**[16 CSE / 31 total students]**"
+    },
+    "P4": {
+      "Monday": "**C105**: Operating Systems<br/>*Major* | Dr. Vivek Sharma | Room 202<br/>**[30 CSE students]**",
+      "Tuesday": "**C103**: Object Oriented Programming<br/>*Major* | Ms. Sravya Reddy | Room 201<br/>**[30 CSE students]**",
+      "Wednesday": "**I303**: Cloud Computing<br/>*Open Elective* | Ms. Pooja Singh | Computer Lab 2<br/>**[16 CSE / 31 total students]**",
+      "Thursday": "**C104**: Data Structures Lab (Lab Contd.)<br/>*Laboratory* | Dr. Ananya Rao | Computer Lab 1<br/>**[30 CSE students]**",
+      "Friday": "**C101**: Data Structures<br/>*Major* | Dr. Ananya Rao | Room 202<br/>**[30 CSE students]**"
+    },
+    "P5": {
+      "Monday": "**C104**: Data Structures Lab<br/>*Laboratory* | Dr. Ananya Rao | Computer Lab 1<br/>**[30 CSE students]**",
+      "Tuesday": "FREE / SELF-STUDY",
+      "Wednesday": "FREE / SELF-STUDY",
+      "Thursday": "FREE / SELF-STUDY",
+      "Friday": "FREE / SELF-STUDY"
+    },
+    "P6": {
+      "Monday": "**C104**: Data Structures Lab (Lab Contd.)<br/>*Laboratory* | Dr. Ananya Rao | Computer Lab 1<br/>**[30 CSE students]**",
+      "Tuesday": "FREE / SELF-STUDY",
+      "Wednesday": "FREE / SELF-STUDY",
+      "Thursday": "FREE / SELF-STUDY",
+      "Friday": "FREE / SELF-STUDY"
+    }
+  },
+  "ece": {
+    "P1": {
+      "Monday": "**E202**: Signals and Systems<br/>*Major* | Ms. Nisha Devi | Room 102<br/>**[15 ECE students]**",
+      "Tuesday": "**E204**: Python for Engineers<br/>*Skill Enhancement* | Dr. Meera Joshi | Computer Lab 2<br/>**[15 ECE students]**",
+      "Wednesday": "**E201**: Digital Electronics<br/>*Major* | Mr. Rahul Varma | Room 103<br/>**[15 ECE students]**",
+      "Thursday": "**E202**: Signals and Systems<br/>*Major* | Ms. Nisha Devi | Seminar Room<br/>**[15 ECE students]**",
+      "Friday": "**E201**: Digital Electronics<br/>*Major* | Mr. Rahul Varma | Room 103<br/>**[15 ECE students]**"
+    },
+    "P2": {
+      "Monday": "**X403**: Professional Communication<br/>*Skill Enhancement* | Ms. Pooja Singh | Room 102<br/>**[15 ECE / 45 total students]**",
+      "Tuesday": "**X401**: Introduction to Machine Learning<br/>*Interdisciplinary* | Dr. Harish Babu | Computer Lab 2<br/>**[8 ECE / 29 total students]**<br/><hr/>**X402**: IoT Applications<br/>*Interdisciplinary* | Mr. Sai Teja | Electronics Lab 2<br/>**[7 ECE / 15 total students]**",
+      "Wednesday": "**E202**: Signals and Systems<br/>*Major* | Ms. Nisha Devi | Room 102<br/>**[15 ECE students]**",
+      "Thursday": "**E201**: Digital Electronics<br/>*Major* | Mr. Rahul Varma | Room 202<br/>**[15 ECE students]**",
+      "Friday": "**E204**: Python for Engineers<br/>*Skill Enhancement* | Dr. Meera Joshi | Computer Lab 2<br/>**[15 ECE students]**"
+    },
+    "P3": {
+      "Monday": "**X401**: Introduction to Machine Learning<br/>*Interdisciplinary* | Dr. Harish Babu | Computer Lab 2<br/>**[8 ECE / 29 total students]**<br/><hr/>**X402**: IoT Applications<br/>*Interdisciplinary* | Mr. Sai Teja | Electronics Lab 2<br/>**[7 ECE / 15 total students]**",
+      "Tuesday": "**E203**: Microcontrollers Lab<br/>*Laboratory* | Dr. Arjun Reddy | Electronics Lab 2<br/>**[15 ECE students]**",
+      "Wednesday": "**X403**: Professional Communication<br/>*Skill Enhancement* | Ms. Pooja Singh | Room 101<br/>**[15 ECE / 45 total students]**",
+      "Thursday": "**E203**: Microcontrollers Lab<br/>*Laboratory* | Dr. Arjun Reddy | Electronics Lab 2<br/>**[15 ECE students]**",
+      "Friday": "FREE / SELF-STUDY"
+    },
+    "P4": {
+      "Monday": "FREE / SELF-STUDY",
+      "Tuesday": "**E203**: Microcontrollers Lab (Lab Contd.)<br/>*Laboratory* | Dr. Arjun Reddy | Electronics Lab 2<br/>**[15 ECE students]**",
+      "Wednesday": "FREE / SELF-STUDY",
+      "Thursday": "**E203**: Microcontrollers Lab (Lab Contd.)<br/>*Laboratory* | Dr. Arjun Reddy | Electronics Lab 2<br/>**[15 ECE students]**",
+      "Friday": "FREE / SELF-STUDY"
+    },
+    "P5": {
+      "Monday": "FREE / SELF-STUDY",
+      "Tuesday": "FREE / SELF-STUDY",
+      "Wednesday": "FREE / SELF-STUDY",
+      "Thursday": "FREE / SELF-STUDY",
+      "Friday": "FREE / SELF-STUDY"
+    },
+    "P6": {
+      "Monday": "FREE / SELF-STUDY",
+      "Tuesday": "FREE / SELF-STUDY",
+      "Wednesday": "FREE / SELF-STUDY",
+      "Thursday": "FREE / SELF-STUDY",
+      "Friday": "FREE / SELF-STUDY"
+    }
+  },
+  "it": {
+    "P1": {
+      "Monday": "**I304**: Software Engineering<br/>*Major* | Mr. Naveen Rao | Seminar Room<br/>**[15 IT students]**",
+      "Tuesday": "**I304**: Software Engineering<br/>*Major* | Mr. Naveen Rao | Room 101<br/>**[15 IT students]**",
+      "Wednesday": "**I301**: Web Technologies<br/>*Major* | Dr. Meera Joshi | Room 101<br/>**[15 IT students]**",
+      "Thursday": "**I302**: Computer Networks<br/>*Major* | Mr. Naveen Rao | Room 102<br/>**[15 IT students]**",
+      "Friday": "**I304**: Software Engineering<br/>*Major* | Mr. Naveen Rao | Seminar Room<br/>**[15 IT students]**"
+    },
+    "P2": {
+      "Monday": "**I302**: Computer Networks<br/>*Major* | Mr. Naveen Rao | Seminar Room<br/>**[15 IT students]**",
+      "Tuesday": "**X401**: Introduction to Machine Learning<br/>*Interdisciplinary* | Dr. Harish Babu | Computer Lab 2<br/>**[7 IT / 29 total students]**<br/><hr/>**X402**: IoT Applications<br/>*Interdisciplinary* | Mr. Sai Teja | Electronics Lab 2<br/>**[8 IT / 15 total students]**",
+      "Wednesday": "**I302**: Computer Networks<br/>*Major* | Mr. Naveen Rao | Room 103<br/>**[15 IT students]**",
+      "Thursday": "**I301**: Web Technologies<br/>*Major* | Dr. Meera Joshi | Room 201<br/>**[15 IT students]**",
+      "Friday": "**X404**: Design Thinking<br/>*Interdisciplinary* | Dr. Vivek Sharma | Seminar Room<br/>**[15 IT students]**"
+    },
+    "P3": {
+      "Monday": "**X401**: Introduction to Machine Learning<br/>*Interdisciplinary* | Dr. Harish Babu | Computer Lab 2<br/>**[7 IT / 29 total students]**<br/><hr/>**X402**: IoT Applications<br/>*Interdisciplinary* | Mr. Sai Teja | Electronics Lab 2<br/>**[8 IT / 15 total students]**",
+      "Tuesday": "**I301**: Web Technologies<br/>*Major* | Dr. Meera Joshi | Seminar Room<br/>**[15 IT students]**",
+      "Wednesday": "FREE / SELF-STUDY",
+      "Thursday": "FREE / SELF-STUDY",
+      "Friday": "**I303**: Cloud Computing<br/>*Open Elective* | Ms. Pooja Singh | Computer Lab 2<br/>**[15 IT / 31 total students]**"
+    },
+    "P4": {
+      "Monday": "FREE / SELF-STUDY",
+      "Tuesday": "FREE / SELF-STUDY",
+      "Wednesday": "**I303**: Cloud Computing<br/>*Open Elective* | Ms. Pooja Singh | Computer Lab 2<br/>**[15 IT / 31 total students]**",
+      "Thursday": "FREE / SELF-STUDY",
+      "Friday": "FREE / SELF-STUDY"
+    },
+    "P5": {
+      "Monday": "FREE / SELF-STUDY",
+      "Tuesday": "FREE / SELF-STUDY",
+      "Wednesday": "FREE / SELF-STUDY",
+      "Thursday": "FREE / SELF-STUDY",
+      "Friday": "FREE / SELF-STUDY"
+    },
+    "P6": {
+      "Monday": "FREE / SELF-STUDY",
+      "Tuesday": "FREE / SELF-STUDY",
+      "Wednesday": "FREE / SELF-STUDY",
+      "Thursday": "FREE / SELF-STUDY",
+      "Friday": "FREE / SELF-STUDY"
+    }
+  },
+  "multi": {
+    "P1": {
+      "Monday": "FREE / SELF-STUDY",
+      "Tuesday": "FREE / SELF-STUDY",
+      "Wednesday": "FREE / SELF-STUDY",
+      "Thursday": "FREE / SELF-STUDY",
+      "Friday": "FREE / SELF-STUDY"
+    },
+    "P2": {
+      "Monday": "**X403**: Professional Communication<br/>*Skill Enhancement* | Ms. Pooja Singh | Room 102<br/>**[45 students: 30 CSE, 15 ECE, 0 IT]**",
+      "Tuesday": "**X401**: Introduction to Machine Learning<br/>*Interdisciplinary* | Dr. Harish Babu | Computer Lab 2<br/>**[29 students: 14 CSE, 8 ECE, 7 IT]**<br/><hr/>**X402**: IoT Applications<br/>*Interdisciplinary* | Mr. Sai Teja | Electronics Lab 2<br/>**[15 students: 0 CSE, 7 ECE, 8 IT]**",
+      "Wednesday": "FREE / SELF-STUDY",
+      "Thursday": "FREE / SELF-STUDY",
+      "Friday": "**X404**: Design Thinking<br/>*Interdisciplinary* | Dr. Vivek Sharma | Seminar Room<br/>**[15 students: 0 CSE, 0 ECE, 15 IT]**"
+    },
+    "P3": {
+      "Monday": "**X401**: Introduction to Machine Learning<br/>*Interdisciplinary* | Dr. Harish Babu | Computer Lab 2<br/>**[29 students: 14 CSE, 8 ECE, 7 IT]**<br/><hr/>**X402**: IoT Applications<br/>*Interdisciplinary* | Mr. Sai Teja | Electronics Lab 2<br/>**[15 students: 0 CSE, 7 ECE, 8 IT]**",
+      "Tuesday": "FREE / SELF-STUDY",
+      "Wednesday": "**X403**: Professional Communication<br/>*Skill Enhancement* | Ms. Pooja Singh | Room 101<br/>**[45 students: 30 CSE, 15 ECE, 0 IT]**",
+      "Thursday": "FREE / SELF-STUDY",
+      "Friday": "**I303**: Cloud Computing<br/>*Open Elective* | Ms. Pooja Singh | Computer Lab 2<br/>**[31 students: 16 CSE, 0 ECE, 15 IT]**"
+    },
+    "P4": {
+      "Monday": "FREE / SELF-STUDY",
+      "Tuesday": "FREE / SELF-STUDY",
+      "Wednesday": "**I303**: Cloud Computing<br/>*Open Elective* | Ms. Pooja Singh | Computer Lab 2<br/>**[31 students: 16 CSE, 0 ECE, 15 IT]**",
+      "Thursday": "FREE / SELF-STUDY",
+      "Friday": "FREE / SELF-STUDY"
+    },
+    "P5": {
+      "Monday": "FREE / SELF-STUDY",
+      "Tuesday": "FREE / SELF-STUDY",
+      "Wednesday": "FREE / SELF-STUDY",
+      "Thursday": "FREE / SELF-STUDY",
+      "Friday": "FREE / SELF-STUDY"
+    },
+    "P6": {
+      "Monday": "FREE / SELF-STUDY",
+      "Tuesday": "FREE / SELF-STUDY",
+      "Wednesday": "FREE / SELF-STUDY",
+      "Thursday": "FREE / SELF-STUDY",
+      "Friday": "FREE / SELF-STUDY"
+    }
+  }
+}

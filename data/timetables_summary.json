@@ -1,0 +1,170 @@
+{
+  "cse": {
+    "Monday": {
+      "P1": "C101 - Data Structures (Major) | Fac: Dr. Ananya Rao | Rm: Room 101 [Reg: 30] + C106 - Artificial Intelligence Fundamentals (Open Elective) | Fac: Dr. Harish Babu | Rm: Room 202 [Reg: 0]",
+      "P2": "X403 - Professional Communication (Skill Enhancement) | Fac: Ms. Pooja Singh | Rm: Room 102 [Reg: 45]",
+      "P3": "X401 - Introduction to Machine Learning (Interdisciplinary) | Fac: Dr. Harish Babu | Rm: Computer Lab 2 [Reg: 29]",
+      "P4": "C105 - Operating Systems (Major) | Fac: Dr. Vivek Sharma | Rm: Room 202 [Reg: 30]",
+      "P5": "C104 - Data Structures Lab (Laboratory) | Fac: Dr. Ananya Rao | Rm: Computer Lab 1 [Reg: 30]",
+      "P6": "C104 - Data Structures Lab (Lab Contd.) | Fac: Dr. Ananya Rao | Rm: Computer Lab 1"
+    },
+    "Tuesday": {
+      "P1": "C101 - Data Structures (Major) | Fac: Dr. Ananya Rao | Rm: Seminar Room [Reg: 30]",
+      "P2": "X401 - Introduction to Machine Learning (Interdisciplinary) | Fac: Dr. Harish Babu | Rm: Computer Lab 2 [Reg: 29]",
+      "P3": "C102 - Database Management Systems (Major) | Fac: Mr. Kiran Kumar | Rm: Room 101 [Reg: 30]",
+      "P4": "C103 - Object Oriented Programming (Major) | Fac: Ms. Sravya Reddy | Rm: Room 201 [Reg: 30]",
+      "P5": "",
+      "P6": ""
+    },
+    "Wednesday": {
+      "P1": "C102 - Database Management Systems (Major) | Fac: Mr. Kiran Kumar | Rm: Room 202 [Reg: 30]",
+      "P2": "C105 - Operating Systems (Major) | Fac: Dr. Vivek Sharma | Rm: Seminar Room [Reg: 30]",
+      "P3": "X403 - Professional Communication (Skill Enhancement) | Fac: Ms. Pooja Singh | Rm: Room 101 [Reg: 45]",
+      "P4": "I303 - Cloud Computing (Open Elective) | Fac: Ms. Pooja Singh | Rm: Computer Lab 2 [Reg: 31]",
+      "P5": "",
+      "P6": ""
+    },
+    "Thursday": {
+      "P1": "C103 - Object Oriented Programming (Major) | Fac: Ms. Sravya Reddy | Rm: Room 202 [Reg: 30]",
+      "P2": "C105 - Operating Systems (Major) | Fac: Dr. Vivek Sharma | Rm: Room 102 [Reg: 30]",
+      "P3": "C104 - Data Structures Lab (Laboratory) | Fac: Dr. Ananya Rao | Rm: Computer Lab 1 [Reg: 30]",
+      "P4": "C104 - Data Structures Lab (Lab Contd.) | Fac: Dr. Ananya Rao | Rm: Computer Lab 1",
+      "P5": "",
+      "P6": ""
+    },
+    "Friday": {
+      "P1": "C103 - Object Oriented Programming (Major) | Fac: Ms. Sravya Reddy | Rm: Room 202 [Reg: 30] + C106 - Artificial Intelligence Fundamentals (Open Elective) | Fac: Dr. Harish Babu | Rm: Room 201 [Reg: 0]",
+      "P2": "C102 - Database Management Systems (Major) | Fac: Mr. Kiran Kumar | Rm: Room 102 [Reg: 30]",
+      "P3": "I303 - Cloud Computing (Open Elective) | Fac: Ms. Pooja Singh | Rm: Computer Lab 2 [Reg: 31]",
+      "P4": "C101 - Data Structures (Major) | Fac: Dr. Ananya Rao | Rm: Room 202 [Reg: 30]",
+      "P5": "",
+      "P6": ""
+    }
+  },
+  "ece": {
+    "Monday": {
+      "P1": "E202 - Signals and Systems (Major) | Fac: Ms. Nisha Devi | Rm: Room 102 [Reg: 15]",
+      "P2": "X403 - Professional Communication (Skill Enhancement) | Fac: Ms. Pooja Singh | Rm: Room 102 [Reg: 45]",
+      "P3": "X401 - Introduction to Machine Learning (Interdisciplinary) | Fac: Dr. Harish Babu | Rm: Computer Lab 2 [Reg: 29] + X402 - IoT Applications (Interdisciplinary) | Fac: Mr. Sai Teja | Rm: Electronics Lab 2 [Reg: 15]",
+      "P4": "",
+      "P5": "",
+      "P6": ""
+    },
+    "Tuesday": {
+      "P1": "E204 - Python for Engineers (Skill Enhancement) | Fac: Dr. Meera Joshi | Rm: Computer Lab 2 [Reg: 15]",
+      "P2": "X401 - Introduction to Machine Learning (Interdisciplinary) | Fac: Dr. Harish Babu | Rm: Computer Lab 2 [Reg: 29] + X402 - IoT Applications (Interdisciplinary) | Fac: Mr. Sai Teja | Rm: Electronics Lab 2 [Reg: 15]",
+      "P3": "E203 - Microcontrollers Lab (Laboratory) | Fac: Dr. Arjun Reddy | Rm: Electronics Lab 2 [Reg: 15]",
+      "P4": "E203 - Microcontrollers Lab (Lab Contd.) | Fac: Dr. Arjun Reddy | Rm: Electronics Lab 2",
+      "P5": "",
+      "P6": ""
+    },
+    "Wednesday": {
+      "P1": "E201 - Digital Electronics (Major) | Fac: Mr. Rahul Varma | Rm: Room 103 [Reg: 15]",
+      "P2": "E202 - Signals and Systems (Major) | Fac: Ms. Nisha Devi | Rm: Room 102 [Reg: 15]",
+      "P3": "X403 - Professional Communication (Skill Enhancement) | Fac: Ms. Pooja Singh | Rm: Room 101 [Reg: 45]",
+      "P4": "",
+      "P5": "",
+      "P6": ""
+    },
+    "Thursday": {
+      "P1": "E202 - Signals and Systems (Major) | Fac: Ms. Nisha Devi | Rm: Seminar Room [Reg: 15]",
+      "P2": "E201 - Digital Electronics (Major) | Fac: Mr. Rahul Varma | Rm: Room 202 [Reg: 15]",
+      "P3": "E203 - Microcontrollers Lab (Laboratory) | Fac: Dr. Arjun Reddy | Rm: Electronics Lab 2 [Reg: 15]",
+      "P4": "E203 - Microcontrollers Lab (Lab Contd.) | Fac: Dr. Arjun Reddy | Rm: Electronics Lab 2",
+      "P5": "",
+      "P6": ""
+    },
+    "Friday": {
+      "P1": "E201 - Digital Electronics (Major) | Fac: Mr. Rahul Varma | Rm: Room 103 [Reg: 15]",
+      "P2": "E204 - Python for Engineers (Skill Enhancement) | Fac: Dr. Meera Joshi | Rm: Computer Lab 2 [Reg: 15]",
+      "P3": "",
+      "P4": "",
+      "P5": "",
+      "P6": ""
+    }
+  },
+  "it": {
+    "Monday": {
+      "P1": "I304 - Software Engineering (Major) | Fac: Mr. Naveen Rao | Rm: Seminar Room [Reg: 15]",
+      "P2": "I302 - Computer Networks (Major) | Fac: Mr. Naveen Rao | Rm: Seminar Room [Reg: 15]",
+      "P3": "X401 - Introduction to Machine Learning (Interdisciplinary) | Fac: Dr. Harish Babu | Rm: Computer Lab 2 [Reg: 29] + X402 - IoT Applications (Interdisciplinary) | Fac: Mr. Sai Teja | Rm: Electronics Lab 2 [Reg: 15]",
+      "P4": "",
+      "P5": "",
+      "P6": ""
+    },
+    "Tuesday": {
+      "P1": "I304 - Software Engineering (Major) | Fac: Mr. Naveen Rao | Rm: Room 101 [Reg: 15]",
+      "P2": "X401 - Introduction to Machine Learning (Interdisciplinary) | Fac: Dr. Harish Babu | Rm: Computer Lab 2 [Reg: 29] + X402 - IoT Applications (Interdisciplinary) | Fac: Mr. Sai Teja | Rm: Electronics Lab 2 [Reg: 15]",
+      "P3": "I301 - Web Technologies (Major) | Fac: Dr. Meera Joshi | Rm: Seminar Room [Reg: 15]",
+      "P4": "",
+      "P5": "",
+      "P6": ""
+    },
+    "Wednesday": {
+      "P1": "I301 - Web Technologies (Major) | Fac: Dr. Meera Joshi | Rm: Room 101 [Reg: 15]",
+      "P2": "I302 - Computer Networks (Major) | Fac: Mr. Naveen Rao | Rm: Room 103 [Reg: 15]",
+      "P3": "",
+      "P4": "I303 - Cloud Computing (Open Elective) | Fac: Ms. Pooja Singh | Rm: Computer Lab 2 [Reg: 31]",
+      "P5": "",
+      "P6": ""
+    },
+    "Thursday": {
+      "P1": "I302 - Computer Networks (Major) | Fac: Mr. Naveen Rao | Rm: Room 102 [Reg: 15]",
+      "P2": "I301 - Web Technologies (Major) | Fac: Dr. Meera Joshi | Rm: Room 201 [Reg: 15]",
+      "P3": "",
+      "P4": "",
+      "P5": "",
+      "P6": ""
+    },
+    "Friday": {
+      "P1": "I304 - Software Engineering (Major) | Fac: Mr. Naveen Rao | Rm: Seminar Room [Reg: 15]",
+      "P2": "X404 - Design Thinking (Interdisciplinary) | Fac: Dr. Vivek Sharma | Rm: Seminar Room [Reg: 15]",
+      "P3": "I303 - Cloud Computing (Open Elective) | Fac: Ms. Pooja Singh | Rm: Computer Lab 2 [Reg: 31]",
+      "P4": "",
+      "P5": "",
+      "P6": ""
+    }
+  },
+  "multi": {
+    "Monday": {
+      "P1": "C106 - Artificial Intelligence Fundamentals (Open Elective) | Fac: Dr. Harish Babu | Rm: Room 202 [Reg: 0]",
+      "P2": "X403 - Professional Communication (Skill Enhancement) | Fac: Ms. Pooja Singh | Rm: Room 102 [Reg: 45]",
+      "P3": "X401 - Introduction to Machine Learning (Interdisciplinary) | Fac: Dr. Harish Babu | Rm: Computer Lab 2 [Reg: 29] + X402 - IoT Applications (Interdisciplinary) | Fac: Mr. Sai Teja | Rm: Electronics Lab 2 [Reg: 15]",
+      "P4": "",
+      "P5": "",
+      "P6": ""
+    },
+    "Tuesday": {
+      "P1": "",
+      "P2": "X401 - Introduction to Machine Learning (Interdisciplinary) | Fac: Dr. Harish Babu | Rm: Computer Lab 2 [Reg: 29] + X402 - IoT Applications (Interdisciplinary) | Fac: Mr. Sai Teja | Rm: Electronics Lab 2 [Reg: 15]",
+      "P3": "",
+      "P4": "",
+      "P5": "",
+      "P6": ""
+    },
+    "Wednesday": {
+      "P1": "",
+      "P2": "",
+      "P3": "X403 - Professional Communication (Skill Enhancement) | Fac: Ms. Pooja Singh | Rm: Room 101 [Reg: 45]",
+      "P4": "I303 - Cloud Computing (Open Elective) | Fac: Ms. Pooja Singh | Rm: Computer Lab 2 [Reg: 31]",
+      "P5": "",
+      "P6": ""
+    },
+    "Thursday": {
+      "P1": "",
+      "P2": "",
+      "P3": "",
+      "P4": "",
+      "P5": "",
+      "P6": ""
+    },
+    "Friday": {
+      "P1": "C106 - Artificial Intelligence Fundamentals (Open Elective) | Fac: Dr. Harish Babu | Rm: Room 201 [Reg: 0]",
+      "P2": "X404 - Design Thinking (Interdisciplinary) | Fac: Dr. Vivek Sharma | Rm: Seminar Room [Reg: 15]",
+      "P3": "I303 - Cloud Computing (Open Elective) | Fac: Ms. Pooja Singh | Rm: Computer Lab 2 [Reg: 31]",
+      "P4": "",
+      "P5": "",
+      "P6": ""
+    }
+  }
+}
